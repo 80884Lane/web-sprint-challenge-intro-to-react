@@ -6,3 +6,15 @@
   text-shadow: 1px 1px 5px #fff;
 }
 /* write your parent styles in here for your App.js */
+character {
+primaryColor: "royalblue",
+secondaryColor: "crimson",
+tertiaryColor: "mediumseagreen",
+danger: "orange",
+black: "black",
+white: "white",
+breakpointMobile: "(max-width: 550px)",
+breakpoints: {
+  mobile: "(max-width: 550px)",
+  tablet: "(max-width: 800px)",
+};
